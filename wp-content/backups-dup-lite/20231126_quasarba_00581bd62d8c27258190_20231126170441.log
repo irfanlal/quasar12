@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 26, 2023 5:05 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.7.1
+WORDPRESS:	6.4.1
+PHP INFO:	8.2.13 | SAPI: apache2handler
+SERVER:		Apache/2.4.58 (Win64) PHP/8.2.13 mod_fcgid/2.3.10-dev 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:25 | filtered:0 | create:25
+FILTERED: []
+SQL CREATED: 20231126_quasarba_00581bd62d8c27258190_20231126170441_database.sql
+SQL FILE SIZE: 8MB (8386176)
+SQL FILE TIME: 2023-11-26 17:05:04
+SQL RUNTIME: 1.54 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/wamp64/www/quasarba
+ARCHIVE FILE: 20231126_quasarba_00581bd62d8c27258190_20231126170441_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	178.96MB
+STATS:	Dirs 1,381 | Files 8,017
+SQL ADDED: 20231126_quasarba_00581bd62d8c27258190_20231126170441_database.sql
+ZipArchive Object
+(
+    [lastId] => 9397
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9398
+    [filename] => C:\wamp64\www\quasarba\wp-content\backups-dup-lite\tmp\20231126_quasarba_00581bd62d8c27258190_20231126170441_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9397
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 50.23MB
+ARCHIVE RUNTIME: 16.08 sec.
+MEMORY STACK: 10MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 8MB
+INSTALLER FILE: 73.47KB
+ARCHIVE FILE: 52.15MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,398
+ACTUAL FILE/DIRECTORY COUNT: 9,397
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 19.95 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => 20231126_quasarba November 26, 2023 5:05 pm
+
